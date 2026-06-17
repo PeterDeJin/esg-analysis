@@ -1,0 +1,7 @@
+# ESG — Python 套件需求 (Python 3.11)
+# notebook 於 pandas < 2.0 時期撰寫 (fillna(method=) 等)，故釘住相容版本。
+numpy==1.24.4
+pandas==1.5.3
+statsmodels==0.14.1
+matplotlib==3.7.5
+openpyxl==3.1.2

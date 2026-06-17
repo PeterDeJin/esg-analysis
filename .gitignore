@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.bak
+# 第三方學術論文(版權)
+2024-EFM-*.pdf
